@@ -1,3 +1,3 @@
-To access the project in the browser, go to:  https://github.com/kellydrake/capstoneproject
+To access the project in the browser, go to:  https://kellydrake.github.io/capstoneproject/
 
 Thank you!
